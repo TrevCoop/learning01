@@ -24,6 +24,6 @@ redoing commits,
 syncing changes.
 
 Commands:
-clone, add, commit, and checkout
-rebase, push, pull, fetch , merge, status, log
+clone, add, commit, checkout,
+rebase, push, pull, fetch , merge, status, log,
 git request-pull [-p] <start> <url> [<end>]
