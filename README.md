@@ -12,13 +12,13 @@ Now I am a little familiar with GitHub.com
 My next task will be to learn to use Git on the command line and clone my repository.
 
 Topics to learn Git from command line (https://services.github.com/on-demand/downloads/fr/github-git-cheat-sheet.pdf): 
-Git installation
-configure tooling
-creating repositories
-making changes
-group changes
-refactoring
-saving
-reviewing
-redoing commits
-syncing changes
+Git installation,
+configure tooling,
+creating repositories,
+making changes,
+group changes,
+refactoring,
+saving,
+reviewing,
+redoing commits,
+syncing changes.
